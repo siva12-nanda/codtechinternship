@@ -3,7 +3,7 @@
 Name: [Siva Nanda C .P]
 Intern ID: [CITS4289]
 **Domain:** Machine Learning
-**Duration:** [june 10] to [july 8]
+**Duration:** [10 june 2026 ] to [8 july 2026 ]
 **Company:** Codtech IT Solution
 
 ---
